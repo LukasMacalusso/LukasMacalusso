@@ -10,5 +10,5 @@ Computer Science & Engineering student based in Chile (UTC-3). I build full-stac
 * **Currently learning:** Rust, Systems Programming, Computer Networking & Security
 
 #### Reach out
-- **LinkedIn:** [linkedin.com/in/lukas-macalusso-trillat-91287a366](https://www.linkedin.com/in/lukas-macalusso-trillat-91287a366/)
+- **LinkedIn:** [linkedin.com/in/lukas-macalusso-trillat](https://www.linkedin.com/in/lukas-macalusso-trillat-91287a366/)
 - **Email:** [lstrillat@gmail.com](mailto:lstrillat@gmail.com)
